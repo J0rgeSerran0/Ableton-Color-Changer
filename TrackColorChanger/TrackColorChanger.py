@@ -24,7 +24,7 @@ track_colors = {
     "riser": 45,
     "guitar": 18,
     "string": 1,
-    "lead voice": 54,
+    "main voice": 54,
     "vox": 66,
     "wind": 38
 }
