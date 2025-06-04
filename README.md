@@ -36,7 +36,7 @@ For **Windows** users: go to `\Users\[username]\Documents\Ableton\User Library`
 
 2) Create the folder **`Remote Scripts`** if it's not already created
 3) Create a folder titled **`TrackColorChanger`** inside the **`Remote Scripts`** folder
-4) Download both .py files, **`TrackColorchanger.py`** and **`__init__.py`**, and place them in the **`Remote Scripts/TrackColorChanger`** folder
+4) Download both .py files, **`TrackColorchanger.py`** and **`__init__.py`** that you will find in the folder **`TrackColorChanger`** of this repository, and place them in the **`Remote Scripts/TrackColorChanger`** folder
 5) Restart or Open Ableton Live
 6) Go to the **`Ableton Live Settings`**, select **`TrackColorChanger`** in the "Link|Tempo|Midi" tab of Ableton Live Settings, and make sure the input and output are set to 'None'
 
