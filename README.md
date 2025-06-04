@@ -49,67 +49,69 @@ I have organized the name of the tracks by categories, but in the program, you c
 I share with you the categories, name of the tracks and color. You can edit this content as you want. I am going to explain you how to do it
 
 **drum**
-- "hats": 4
-- "kick": 5
-- "perc": 17
-- "snare": 18
-- "tom": 19
+- "hats": 29
+- "kick": 28
+- "perc": 57
+- "snare": 42
+- "tom": 0
 
 **synth**
 - "keys": 21
 - "lead": 22
-- "pad": 23
+- "pad": 49
 - "piano": 63
-- "pluck": 64
-- "synth": 65
+- "pluck": 65
+- "synth": 64
 
 **bass**
-- "bass": 28
+- "bass": 60
 
 **efx**
-- "ambience": 16
-- "atmos": 2
-- "drone": 30
-- "efx": 43
-- "noise": 44
-- "riser": 58
+- "ambience": 3
+- "atmos": 17
+- "drone": 59
+- "efx": 32
+- "noise": 31
+- "riser": 45
 
 **strings**
-- "guitar": 41
-- "string": 27
+- "guitar": 18
+- "string": 1
 
 **vocal**
-- "vox": 68
+- "lead vox": 54
+- "vox": 66
 
 **wind**
-- "wind": 24
+- "wind": 38
 
 This information can be found in the python code:
 
 ```py
 track_colors = {
-    "hats": 4,
-    "kick": 5,
-    "perc": 17,
-    "snare": 18,
-    "tom": 19,
+    "hats": 29,
+    "kick": 28,
+    "perc": 57,
+    "snare": 42,
+    "tom": 0,
     "keys": 21,
     "lead": 22,
-    "pad": 23,
+    "pad": 49,
     "piano": 63,
-    "pluck": 64,
-    "synth": 65,
-    "bass": 28,
-    "ambience": 16,
-    "atmos": 2,
-    "drone": 30,
-    "efx": 43,
-    "noise": 44,
-    "riser": 58,
-    "guitar": 41,
-    "string": 27,
-    "vox": 68,
-    "wind": 24
+    "pluck": 65,
+    "synth": 64,
+    "bass": 60,
+    "ambience": 3,
+    "atmos": 17,
+    "drone": 59,
+    "efx": 32,
+    "noise": 31,
+    "riser": 45,
+    "guitar": 18,
+    "string": 1,
+    "lead vox": 54,
+    "vox": 66,
+    "wind": 38
 }
 ```
 
