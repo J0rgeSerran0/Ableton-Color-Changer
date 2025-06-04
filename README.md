@@ -44,7 +44,9 @@ For **Windows** users: go to `\Users\[username]\Documents\Ableton\User Library`
 
 
 ## Organization of the colors
-I have organized the name of the tracks by categories, but in the program, you can find the name of the tracks only
+I have organized the name of the tracks by categories, but in this program or utility, you can find the name of the tracks only
+
+> *Note:* I have tried to follow the organization suggested by Marc Mozart
 
 I share with you the categories, name of the tracks and color. You can edit this content as you want. I am going to explain you how to do it
 
