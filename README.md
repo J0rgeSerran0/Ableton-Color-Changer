@@ -81,7 +81,7 @@ I share with you the categories, name of the tracks and color. You can edit this
 - "string": 1
 
 **vocal**
-- "lead vox": 54
+- "lead voice": 54
 - "vox": 66
 
 **wind**
@@ -111,7 +111,7 @@ track_colors = {
     "riser": 45,
     "guitar": 18,
     "string": 1,
-    "lead vox": 54,
+    "lead voice": 54,
     "vox": 66,
     "wind": 38
 }
