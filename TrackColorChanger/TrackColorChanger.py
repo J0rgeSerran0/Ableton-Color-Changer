@@ -19,12 +19,13 @@ track_colors = {
     "ambience": 3,
     "atmos": 17,
     "drone": 59,
+    "efx": 32,
     "noise": 31,
     "riser": 45,
     "guitar": 18,
     "string": 1,
-    "vox": 66,
     "lead vox": 54,
+    "vox": 66,
     "wind": 38
 }
 
