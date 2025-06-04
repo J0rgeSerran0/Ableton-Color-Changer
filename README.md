@@ -3,7 +3,7 @@
 >
 > **Description:** this python program lets you assign a color in an Ableton track depending the name of the track. The color of the tracks help you to organize, find and visualize quickly the tracks in your musical composition
 > 
-> **Note:** This code is based in the original from [CoryWBoris](https://github.com/CoryWBoris) named [AbletonAutoColor](https://github.com/CoryWBoris/AbletonAutoColor)
+> **Note:** This code is based in the original from [CoryWBoris](https://github.com/CoryWBoris) named [AbletonAutoColor](https://github.com/CoryWBoris/AbletonAutoColor). The code of this repository has been tested on Ableton Live 12
 
 
 ## Why this project
