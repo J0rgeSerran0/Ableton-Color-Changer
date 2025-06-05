@@ -6,6 +6,10 @@
 > **Note:** This code is based in the original from [CoryWBoris](https://github.com/CoryWBoris) named [AbletonAutoColor](https://github.com/CoryWBoris/AbletonAutoColor). The code of this repository has been tested on Ableton Live 12
 
 
+## Release Notes
+- 20250604 - Currently there is only one version
+
+
 ## Why this project
 The project from Cory was working fine, but there were two things that I wanted to change.
 * The first one related with the colors used by Cory.
